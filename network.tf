@@ -3,7 +3,6 @@ resource "aws_vpc" "vpc" {
 
   tags = {
     Name = "vpc_test_fawker"
-
   }
 }
 
