@@ -2,21 +2,21 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/hashicorp/aws" {
-  version     = "4.22.0"
+  version     = "4.24.0"
   constraints = ">= 3.0.0"
   hashes = [
-    "h1:RxPzK6VFHz6qZMZUVhE03j9Cf5CvnLr14egtq5yxD1E=",
-    "zh:299efb8ba733b7742f0ef1c5c5467819e0c7bf46264f5f36ba6b6674304a5244",
-    "zh:4db198a41d248491204d4ca644662c32f748177d5cbe01f3c7adbb957d4d77f0",
-    "zh:62ebc2b05b25eafecb1a75f19d6fc5551faf521ada9df9e5682440d927f642e1",
-    "zh:636b590840095b4f817c176034cf649f543c0ce514dc051d6d0994f0a05c53ef",
-    "zh:8594bd8d442288873eee56c0b4535cbdf02cacfcf8f6ddcf8cd5f45bb1d3bc80",
-    "zh:8e18a370949799f20ba967eec07a84aaedf95b3ee5006fe5af6eae13fbf39dc3",
+    "h1:aKvDzj21HkU2Qy0hPVyhVtmY7UtC7jtdK9NOIE53occ=",
+    "zh:3b58916e93cab4249bef6fcf6fb2ae3bbf0cb67a876e669205e1f785ffce88a4",
+    "zh:5a51329c4d91ecdc2879a7d4acbc1dfd521ca6cd9a64f0d6f8c01d99a23fc98d",
+    "zh:5c65414467db9b4bbf2f83fb1188543d1015514bab8a2336b38fcccb507fc7ca",
+    "zh:65fc1514f0f1a06463b70694add57589c31debba625d78e25a9434e521a7a290",
+    "zh:71b357f85d47cdb806df850b950193abae7ed14201edeba184be4c1672631f50",
     "zh:9b12af85486a96aedd8d7984b0ff811a4b42e3d88dad1a3fb4c0b580d04fa425",
-    "zh:aa968514231e404fb53311d8eae2e8b6bde1fdad1f4dd5a592ab93d9cbf11af4",
-    "zh:af8e5c48bf36d4fff1a6fca760d5b85f14d657cbdf95e9cd5e898c68104bad31",
-    "zh:d8a75ba36bf8b6f2e49be5682f48eccb6c667a4484afd676ae347213ae208622",
-    "zh:dd7c419674a47e587dabe98b150a8f1f7e31c248c68e8bf5e9ca0a400b5e2c4e",
-    "zh:fdeb6314a2ce97489bbbece59511f78306955e8a23b02cbd1485bd04185a3673",
+    "zh:a1a89a7fb35fa6160963dae13861033493bd5f3e6bc5fd18a0fd745a066378be",
+    "zh:a9482369470168f3830a4a688506426769e1beb09fbdae25633acc508c0a9457",
+    "zh:bf93cb9d15a822bbb0510d3333f763d3d117ca56da350a30ff769049c6851b4c",
+    "zh:c17a405fe50bb16947b189a30e2c6e5983105023fa0c45bb57fb5e63232b316d",
+    "zh:d0c2a0bec642444fd2eb1ecc13e5716bcfe30c80aae5622c8a5692b7af143a57",
+    "zh:dd469fa460f4ce8ebd6a107babf13b1aebee9b2e274f216155f62c23df67c228",
   ]
 }
