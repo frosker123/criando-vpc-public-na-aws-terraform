@@ -2,21 +2,21 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/hashicorp/aws" {
-  version     = "4.22.0"
+  version     = "4.27.0"
   constraints = ">= 3.0.0"
   hashes = [
-    "h1:RxPzK6VFHz6qZMZUVhE03j9Cf5CvnLr14egtq5yxD1E=",
-    "zh:299efb8ba733b7742f0ef1c5c5467819e0c7bf46264f5f36ba6b6674304a5244",
-    "zh:4db198a41d248491204d4ca644662c32f748177d5cbe01f3c7adbb957d4d77f0",
-    "zh:62ebc2b05b25eafecb1a75f19d6fc5551faf521ada9df9e5682440d927f642e1",
-    "zh:636b590840095b4f817c176034cf649f543c0ce514dc051d6d0994f0a05c53ef",
-    "zh:8594bd8d442288873eee56c0b4535cbdf02cacfcf8f6ddcf8cd5f45bb1d3bc80",
-    "zh:8e18a370949799f20ba967eec07a84aaedf95b3ee5006fe5af6eae13fbf39dc3",
+    "h1:w3j7YomUQ9IfRp3MUuY0+hFX1T1cawZoj0Xsc1a46bU=",
+    "zh:0f5ade3801fec487641e4f7d81e28075b716c787772f9709cc2378d20f325791",
+    "zh:19ffa83be6b6765a4f821a17b8d260dd0f192a6c40765fa53ac65fd042cb1f65",
+    "zh:3ac89d33ff8ca75bdc42f31c63ce0018ffc66aa69917c18713e824e381950e4e",
+    "zh:81a199724e74992c8a029a968d211cb45277d95a2e88d0f07ec85127b6c6849b",
     "zh:9b12af85486a96aedd8d7984b0ff811a4b42e3d88dad1a3fb4c0b580d04fa425",
-    "zh:aa968514231e404fb53311d8eae2e8b6bde1fdad1f4dd5a592ab93d9cbf11af4",
-    "zh:af8e5c48bf36d4fff1a6fca760d5b85f14d657cbdf95e9cd5e898c68104bad31",
-    "zh:d8a75ba36bf8b6f2e49be5682f48eccb6c667a4484afd676ae347213ae208622",
-    "zh:dd7c419674a47e587dabe98b150a8f1f7e31c248c68e8bf5e9ca0a400b5e2c4e",
-    "zh:fdeb6314a2ce97489bbbece59511f78306955e8a23b02cbd1485bd04185a3673",
+    "zh:a2e2c851a37ef97bbccccd2e686b4d016abe207a7f56bff70b10bfdf8ed1cbfd",
+    "zh:baf844def338d77f8a3106b1411a1fe22e93a82e3dc51e5d33b766f741c4a6a3",
+    "zh:bc33137fae808f91da0a9de7031cbea77d0ee4eefb4d2ad6ab7f58cc2111a7ff",
+    "zh:c960ae2b33c8d3327f67a3db5ce1952315146d69dfc3f1b0922242e2b218eec8",
+    "zh:f3ea1a25797c79c035463a1188a6a42e131f391f3cb714975ce49ccd301cda07",
+    "zh:f7e77c871d38236e5fedee0086ff77ff396e88964348c794cf38e578fcc00293",
+    "zh:fb338d5dfafab907b8608bd66cad8ca9ae4679f8c62c2435c2056a38b719baa2",
   ]
 }
