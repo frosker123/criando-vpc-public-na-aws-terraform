@@ -2,21 +2,21 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/hashicorp/aws" {
-  version     = "4.22.0"
+  version     = "4.29.0"
   constraints = ">= 3.0.0"
   hashes = [
-    "h1:RxPzK6VFHz6qZMZUVhE03j9Cf5CvnLr14egtq5yxD1E=",
-    "zh:299efb8ba733b7742f0ef1c5c5467819e0c7bf46264f5f36ba6b6674304a5244",
-    "zh:4db198a41d248491204d4ca644662c32f748177d5cbe01f3c7adbb957d4d77f0",
-    "zh:62ebc2b05b25eafecb1a75f19d6fc5551faf521ada9df9e5682440d927f642e1",
-    "zh:636b590840095b4f817c176034cf649f543c0ce514dc051d6d0994f0a05c53ef",
-    "zh:8594bd8d442288873eee56c0b4535cbdf02cacfcf8f6ddcf8cd5f45bb1d3bc80",
-    "zh:8e18a370949799f20ba967eec07a84aaedf95b3ee5006fe5af6eae13fbf39dc3",
+    "h1:cpTUwXfdtmmUqsnYwXFQ5gZjnfz5cgvydmcGxrv+BeA=",
+    "zh:091615c6dddd556b8cc1cd54e1c5c1fe71b593acebacd0b274a2fed7fc4ca802",
+    "zh:4cc11d7252813b2d7cb52e78b24af8eaf377cc242d1d672a7f8bf680758a4976",
+    "zh:565f46308d6e96a21c273e84e0f73d3f39fd8159fc5aaf41bf65c0b0dd6f1de3",
+    "zh:627b6a5574262b5f07c0e012bcb5c73afd97d90b75389c0ab154b5ae4c0dce8f",
+    "zh:91622572d311c28504fbf14e9364120fbafb3adf8e2d49bfdf014752dac9dac0",
+    "zh:98f37f07628b7c2960335b772a544de6bb90f0f390b9d5fdcc3ac211b9cd7def",
+    "zh:9a6338478ba0e7ca75c5b43e0f91dde12d17273b1dc9934c8ff4d631b8bb837a",
     "zh:9b12af85486a96aedd8d7984b0ff811a4b42e3d88dad1a3fb4c0b580d04fa425",
-    "zh:aa968514231e404fb53311d8eae2e8b6bde1fdad1f4dd5a592ab93d9cbf11af4",
-    "zh:af8e5c48bf36d4fff1a6fca760d5b85f14d657cbdf95e9cd5e898c68104bad31",
-    "zh:d8a75ba36bf8b6f2e49be5682f48eccb6c667a4484afd676ae347213ae208622",
-    "zh:dd7c419674a47e587dabe98b150a8f1f7e31c248c68e8bf5e9ca0a400b5e2c4e",
-    "zh:fdeb6314a2ce97489bbbece59511f78306955e8a23b02cbd1485bd04185a3673",
+    "zh:a1cc1fc49e406cba1e98250bc04a47be0b6babf5bb42f23baa40f2dc7f8b90f7",
+    "zh:a251e933412036426e2f7b090000c198feee114270d5724bcc8dd9d674d43689",
+    "zh:b0ef3b92947cc8cea75634139dfbfcae2207a9cb5c31d827cd34e523ca04e919",
+    "zh:fb9ede02c9291e7677877bc21ec5c094da38e3cd44df91da5af36f504be399be",
   ]
 }
